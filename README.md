@@ -53,11 +53,13 @@ Total Active Cases =
 SUM('country_wise_latest'[Active]).
 
 
-Author & Contact
-Name: Anicet Baraka Ciza
+## Contact
+
+Name: Anicet Baraka CIza
+
+LinkedIn: https://www.linkedin.com/in/anicetbarakaciza/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BecQzM0I%2BRMO6dL%2BQo38lmw%3D%3D
+
+GitHub: [Anicet Baraka Ciza] (https://github.com/iamanicet)
 
 Email: cizaanicetbaraka@gmail.com
 
-LinkedIn: Anicet Baraka Ciza
-
-GitHub: iamanicet
