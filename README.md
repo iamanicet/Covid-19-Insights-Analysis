@@ -53,6 +53,12 @@ SUM('country_wise_latest'[Active])
 ---
 
 ## Author & Contact
+
 Name: Anicet Baraka Ciza
+
 Email: cizaanicetbaraka@gmail.com
-**LinkedIn:** [Anicet Baraka Ciza](https://www.linkedin.com/in/anicetbarakaciza/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0k9Q6fzhTvab79evo5oFSQ%3D%3D)
+
+LinkedIn:(https://www.linkedin.com/in/anicetbarakaciza/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0k9Q6fzhTvab79evo5oFSQ%3D%3D)
+
+GithHub : [Anicet Baraka Ciza](https://github.com/iamanicet)
+
