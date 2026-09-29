@@ -1,7 +1,8 @@
-# Covid-19-Insights-Analysis
-leveraging Historical Covid-19 Metrics in Power BI to Inform Future Health Interventions
-
 # Covid-19 Insights & Global Analysis Dashboard
+
+> **Leveraging Historical Covid-19 Metrics in Power BI to Inform Future Health Interventions**
+
+---
 
 ## Executive Summary
 This repository features an interactive **Power BI Business Intelligence solution** designed to analyze global COVID-19 pandemic trends, mortality rates, regional distributions, and case evolutions. The dashboard converts raw operational datasets into actionable insights for health data analysis and strategic decision-making.
@@ -46,19 +47,17 @@ DIVIDE(
     SUM('country_wise_latest'[Total Confirmed]),
     0
 )
+
 // Total Active Cases Measure
 Total Active Cases = 
-SUM('country_wise_latest'[Active])
+SUM('country_wise_latest'[Active]).
 
----
 
-## Author & Contact
-
+Author & Contact
 Name: Anicet Baraka Ciza
 
-Email: cizaanicetbaraka@gmail.com.
+Email: cizaanicetbaraka@gmail.com
 
-LinkedIn:(https://www.linkedin.com/in/anicetbarakaciza/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0k9Q6fzhTvab79evo5oFSQ%3D%3D).
+LinkedIn: Anicet Baraka Ciza
 
-GithHub : [Anicet Baraka Ciza](https://github.com/iamanicet).
-
+GitHub: iamanicet
