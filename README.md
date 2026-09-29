@@ -50,7 +50,8 @@ DIVIDE(
 
 // Total Active Cases Measure
 Total Active Cases = 
-SUM('country_wise_latest'[Active]).
+SUM('country_wise_latest'[Active])
+'''
 
 
 ## Contact
